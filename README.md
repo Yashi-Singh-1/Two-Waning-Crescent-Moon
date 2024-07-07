@@ -1,4 +1,4 @@
-<h1>Ring Ring</h1>
+<h1>Two Waning Crescent Moon</h1>
 
 <h2>Challenge Description</h2>
 
